@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HaileabWolde
-- 👀 I’m interested in ...Programming and Programming related topics
-- 🌱 I’m currently learning ...Computer Science
-- 💞️ I’m looking to collaborate on ..with everyone who's interseted in web development and designing.
-- 📫 How to reach me ...womahaileab1428@gmail.com
+- 👋 Hi, I’m HaileabWolde
+- 👀 I’m A Full Stack Developer experties in MERN Stack 
+- 🌱 Here You will find all of my works that I have done Individually and Also also what I contributed as a collaborator
+- 💞️ I’m looking to work and collaborate on ..with everyone who's interseted in web development.
+- 📫 How to reach me ...womahaileab1428@gmail.com, Phone No:0992621400
 
 <!---
 HaileabWolde/HaileabWolde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
